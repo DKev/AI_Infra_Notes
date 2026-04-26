@@ -1,5 +1,5 @@
 # 速查表
 
-我按工具或场景拆文件，比如 `pytorch-distributed.md`、`cuda-smi.md`、`kubectl-*.md`。**我只放我确定还会翻的**，别抄成百科。
+按工具或场景拆文件，如 `pytorch-distributed.md`、`cuda-smi.md`、`kubectl-*.md`。**只放确定还会翻的**，别变百科搬运。
 
-（我暂时还没加。）
+（暂无。）

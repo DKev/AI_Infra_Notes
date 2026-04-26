@@ -1,8 +1,6 @@
 # 资源索引
 
-- [papers.md](papers.md)：我读过/想读的论文，**短名**我好全文里引用
-- [links.md](links.md)：长文、官方文档、博客，**我怕丢链接**就丢这
+- [papers.md](papers.md)：论文，短名好全文里引用
+- [links.md](links.md)：长文、官文、博客，怕丢链就放这
 
-## 我打算怎么用
-
-我至少保证 `papers.md`、`links.md` 里**标题 + 我一句自己的话**能搜到；细读我写在具体哪个 `topics/*` 里。
+**用法**：`papers` / `links` 里至少**标题 + 一句能搜的备注**；细读写进对口的 `topics/*`。

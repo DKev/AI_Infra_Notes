@@ -1,3 +1,3 @@
 # 图
 
-我放架构图、截图。我在 `topics/` 或最外面 `README` 里用相对路径指过来，比如 `../assets/xxx.png`。
+架构图、截图。在 `topics/` 或根 `README` 里用相对路径引，如 `../assets/xxx.png`。
