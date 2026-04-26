@@ -1,8 +1,8 @@
 # 资源索引
 
-- [papers.md](papers.md)：论文与短笔记键（可配合正文引用）
-- [links.md](links.md)：长文、官方文档、优质博客
+- [papers.md](papers.md)：我读过/想读的论文，**短名**我好全文里引用
+- [links.md](links.md)：长文、官方文档、博客，**我怕丢链接**就丢这
 
-## 使用方式
+## 我打算怎么用
 
-先保证 `papers.md` / `links.md` 里**标题 + 一句话**能搜到；详细阅读笔记放在对应 `topics/*`。
+我至少保证 `papers.md`、`links.md` 里**标题 + 我一句自己的话**能搜到；细读我写在具体哪个 `topics/*` 里。
