@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 实验产物（按需补充）
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+wandb/
