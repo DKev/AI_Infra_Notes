@@ -37,4 +37,4 @@
 ## 5. 待跟进
 
 - 当前 job：**AllReduce/通信**先满还是算子/显存先满？可 profiler 或 NCCL 日志**扫一眼**。
-- Ring vs Tree AllReduce 这篇没细讲，**另开一条**只记延迟/带宽假设，别和这篇糊在一起。
+- Ring vs Tree AllReduce：[单独一篇](notes-ring-tree-allreduce.md)；延迟/带宽假设别和通信原语那篇糊在一起。
