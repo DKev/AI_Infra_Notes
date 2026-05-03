@@ -5,4 +5,4 @@
 
 ## 索引
 
-（空）
+- [vLLM 官宣：PagedAttention](notes-vllm-pagedattention.md) — KV 分页、共享块；原文 [blog.vllm.ai](https://blog.vllm.ai/2023/06/20/vllm.html)

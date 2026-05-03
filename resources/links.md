@@ -6,4 +6,6 @@
 | Understanding NCCL Tuning (NVIDIA) | [Blog](https://developer.nvidia.com/blog/understanding-nccl-tuning-to-accelerate-gpu-to-gpu-communication/) | 算法/协议怎么选、tuner | 01 |
 | NCCL 2.4 / double binary trees (NVIDIA) | [Blog](https://developer.nvidia.com/blog/massively-scale-deep-learning-training-nccl-2-4/) | Tree 规模化、和 Ring 对照 | 01 |
 | Demystifying NCCL (arXiv) | [HTML](https://arxiv.org/html/2507.04786v1) | NCCL 协议与算法综述 | 01 |
+| vLLM / PagedAttention (官宣) | [Blog](https://blog.vllm.ai/2023/06/20/vllm.html) | KV 分页、减碎片、并行采样共享块 | 02 |
+| PagedAttention paper (OSDI) | [arXiv](https://arxiv.org/abs/2309.06180) | vLLM 论文原文 | 02 |
 | （待补） |  |  |  |
